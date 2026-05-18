@@ -5,20 +5,7 @@ To write a python program to implement multivariate linear regression and predic
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1
-<br>
 
-### Step2
-<br>
-
-### Step3
-<br>
-
-### Step4
-<br>
-
-### Step5
-<br>
 
 ## Program:
 ```
@@ -30,7 +17,7 @@ To write a python program to implement multivariate linear regression and predic
 
 ```
 ## Output:
-
+![alt text](<Screenshot 2026-05-16 125013.png>)
 ### Insert your output
 
 <br>
